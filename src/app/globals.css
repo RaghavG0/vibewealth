@@ -1,0 +1,10 @@
+/* 1. Tailwind base, components, utilities */
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+}
+
+.dark {
+  color-scheme: dark;
+}
